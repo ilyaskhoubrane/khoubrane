@@ -7,7 +7,7 @@ const SideBar = () => (
   <section id="sidebar">
     <section id="intro">
       <Link to="/" className="logo">
-        <img src="https://media.licdn.com/dms/image/D4D03AQGZj7YTYkhOIw/profile-displayphoto-shrink_800_800/0/1697421133651?e=1704326400&v=beta&t=RY6IqNSgU3qzBnpcXLutGa8zGVrNltSUM1B7gOk5OTQ" alt="" />
+        <img src="https://avatars.githubusercontent.com/u/93352394?s=400&u=30ef386c2a0ee507bd92c9a69271c05682aa7dd9&v=4" alt="" />
       </Link>
       <header>
         <h2>Marouane Khoubrane</h2>

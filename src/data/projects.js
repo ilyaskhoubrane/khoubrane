@@ -12,6 +12,7 @@ const data = [
   {
     title: 'employee management system',
     subtitle: 'web application employee management system',
+    link: 'https://demo-under-building.com/',
     image: '/images/projects/employee-management-system.png',
     date: 'nodeJS, express, pugJs, firebase, mvc pattern',
     desc:
@@ -20,6 +21,7 @@ const data = [
   {
     title: 'phone finder',
     subtitle: 'web application phone finder',
+    link: 'https://app.saleturbo.com/',
     image: '/images/projects/demo2.gif',
     date: 'nextJS, react, socket.io',
     desc:
@@ -28,6 +30,7 @@ const data = [
   {
     title: 'football player management system',
     subtitle: 'football app',
+    link: 'https://teamsheetpro.com/',
     image: '/images/projects/football.gif',
     date: 'vueJS, firebase',
     desc:
@@ -37,7 +40,7 @@ const data = [
     title: 'gaming store',
     subtitle: 'gaming store',
     link: 'https://khoubranex.github.io/olymups-r/#/home',
-    image: '/images/projects/olyMups (2).gif',
+    image: '/images/projects/oly.png',
     date: 'React, SCSS, Redux, REST API',
     desc:
     'Gaming store is a web application that allows you to buy games and manage your account.',
@@ -67,7 +70,25 @@ const data = [
     link: 'https://khoubranex.github.io/nftwebsite/',
     date: 'html , css , javascript , figma',
     desc:
-    'NFT landing page is a landing page for a nft website.',
+    'landing page for a nft website (figma to html).',
+  },
+  {
+    title: 'agency landing page',
+    subtitle: 'agency landing page',
+    image: '/images/projects/oi.png',
+    link: 'https://khoubranex.github.io/oi/',
+    date: 'html , css , javascript , figma',
+    desc:
+    'landing page for a agency (figma to html).',
+  },
+  {
+    title: 'memory game',
+    subtitle: 'memory game',
+    image: '/images/projects/memory.png',
+    link: 'https://khoubranex.github.io/memoryGameNft/',
+    date: 'html , css , javascript',
+    desc:
+    'memory game with nft cards.',
   },
 ];
 
